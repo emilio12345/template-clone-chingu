@@ -43,4 +43,16 @@ body > div:nth-child(2){
 	background-image: url(./images/francesco-ungaro-gbbsIIHqcX4-unsplash.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 400px;
+	width:auto;
+	padding-top: 10%;
+}
+
+body > div:nth-child(2) > header > div > div > div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
 }
