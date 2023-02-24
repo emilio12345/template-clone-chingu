@@ -68,12 +68,47 @@ body > div:nth-child(2){
     flex-wrap: wrap;
 }
 
-.featured-area-inner {
+.featured-area-inner, .blog-area-inner {
 	display: flex;
 }
 
-.featured-block {
+.featured-block, .blog-area-block {
 	justify-content: center;
 	margin: 10px;
-	padding: 10px;
+	padding: 1px;
+	background-color: #BDCDD6;
+}
+
+#featured-area img, .blog-content img {
+	width: 100%;
+}
+
+#services-area {
+	 background-image: url("../images/bg-2.jpg");
+}
+
+.service {
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.services-area-inner {
+	height: 300px;
+	margin: 10px 0px;
+}
+
+.testimonial-area-inner {
+	display: flex;
+}
+
+.tm-box img {
+	width:  100%;
+}
+
+#contact-area {
+	display: flex;
+    flex-direction: column;
+    align-items: center;
 }
