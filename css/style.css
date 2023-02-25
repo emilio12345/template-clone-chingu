@@ -111,4 +111,5 @@ body > div:nth-child(2){
 	display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #BDCDD6;
 }
