@@ -113,3 +113,16 @@ body > div:nth-child(2){
     align-items: center;
     background-color: #BDCDD6;
 }
+
+.scroll-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 99;
+  outline: none;
+  background-color: #efefef;
+  border: 1px solid #333;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
