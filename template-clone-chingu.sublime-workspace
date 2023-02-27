@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-",
+				"list-style-type\tproperty"
+			],
+			[
+				"col-lg-",
+				"col-lg-6"
+			],
+			[
+				"ban",
+				"bank_balance"
+			],
+			[
+				"format",
+				"formatAmount"
+			],
+			[
+				"access",
+				"accessory_price"
+			],
+			[
+				"spending",
+				"spending_threshold"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "sub",
+		"selected_items":
+		[
+			[
+				"sub",
+				"Sublime Tutor: Start"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 423.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/emiliorivera/Documents/Development/Repositories/template-clone-chingu"
+	],
+	"file_history":
+	[
+		"/Users/emiliorivera/Documents/Repositories/template-clone-chingu/scripts.js",
+		"/Users/emiliorivera/Documents/Repositories/template-clone-chingu/template-clone-chingu.sublime-project",
+		"/Users/emiliorivera/Documents/Repositories/template-clone-chingu/index.html",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/use-this-for-testing-bauhaus/default/assets/custom_script.js",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/use-this-for-testing-bauhaus/default/functions.php",
+		"/Users/emiliorivera/Sites/wptouchfree/wp-config.php",
+		"/Users/emiliorivera/Dropbox/Downloads/webform-test.html",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/use-this-for-testing-bauhaus/default/assets/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/page.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/single.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/custom-landing-page-bauhaus/default/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/custom-landing-page-bauhaus/default/style.css",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/use-this-for-testing-bauhaus/default/index.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/01-classic-redux-child/default/single.php",
+		"/Users/emiliorivera/Sites/example.com/wp-config.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/post-loop.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/index.php",
+		"/Users/emiliorivera/Dropbox/Downloads/page-content.php",
+		"/Users/emiliorivera/Dropbox/Downloads/wp-config - Copy.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/stylesheet-versioning/default/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/footer.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/sharing.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/FA9B5C7E-5D1D-4BB7-AB1C-202CFF10B7CB/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/46344101-511C-4F88-961D-8EA335550CCD/wp-config.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/47E69935-774B-4D52-AB85-8920CE4D2914/.htaccess",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/851B356A-8660-4ACA-9388-202C9DB50ADA/.htaccess",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/C63A6F59-4605-45C0-8CCC-ECF2C3B1273C/.htaccess1",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/71252710-21B5-4382-AC9D-98F13C6A9326/.htaccess_",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/2AB25A17-7355-4318-A7D6-985999209706/index.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/847DC698-BEC8-4D04-BEE7-679670326A0B/wp-config.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/D2BDA554-7ED5-44DC-8A8B-D974603C777E/.htaccess",
+		"/Users/emiliorivera/Sites/example.com/index.php",
+		"/Users/emiliorivera/Documents/Development/Repositories/ios-spotify-ui-clone/index.html",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/25F2753B-40D4-4BDC-A82A-EB7757CDAB05/.htaccess",
+		"/Users/emiliorivera/Dropbox/WPtouch/page-1569.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/861A0783-E149-4D4C-976F-CE6A0AC6AAA7/wp-config.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/FE1439B3-51A4-4BD4-BC44-539EFCCAE268/header-bottom.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/comments.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/custom-num-posts-bauhaus/default/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/prose/default/footer.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/prose/default/comments.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/D66DB26D-8BA6-4BB1-BC00-A7144A42A06F/header-bottom.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/F6EDFFA8-81FE-46FF-A53C-823B1F2F246A/header-bottom.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/bauhaus/default/footer-top.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/prose/default/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open-child-theme/default/style.css",
+		"/Users/emiliorivera/Sites/mobilestore/wp-content/wptouch-data/themes/add-to-cart/default/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/76B4B52F-E863-491B-84DC-2FA394DCED09/page-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/69099054-58E7-4F9C-A1E1-35A8406B7444/page-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/5736E5B3-7D24-4755-92DC-1D82089813CC/loop-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/2B920E57-27DB-45B9-AFE4-1B51692C31CB/loop-event-list.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/9F3A1B6C-CC40-48A3-B9C6-595171F8018C/loop-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/30DCBE0D-34F3-4258-A590-561970606083/single-event.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/74C9BE5D-183D-4340-AEC3-D4629DBBA44B/loop-blog.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/6AD9A93B-C20C-46DC-BB0F-68DD47540A22/loop-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/2718E78C-1FFC-4A61-B16A-A3EB65A1B036/loop-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/C43F84CB-4EDA-4FC0-AC3E-E84B6A8D0D6C/events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/7DF14BCD-F829-47F8-B0ED-F5341B646347/post-loop-events.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/6FAB48BD-FFC5-428C-A70A-692D300698F0/functions.php",
+		"/Users/emiliorivera/Dropbox/WPtouch/custom-post-type copy.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/A5645716-8ECB-44A5-A563-565F9491BE2F/single-resource.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/custom-landing-page-bauhaus/default/front-page.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/7735F9B4-6D1B-4028-B0FC-4CDFF3035E41/single-resource.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/57C26F59-54C1-4411-99D5-5B1DCF171E75/single-resource.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/26C4F877-E5CB-43EF-89B2-DCFC8DFFF8C4/template-master.php",
+		"/Users/emiliorivera/Dropbox/Downloads/ccap/loop-resource.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/A6B0AE18-28E1-418F-AD4C-B47153230C3B/single-resource.php",
+		"/Users/emiliorivera/Dropbox/Downloads/ccap/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/C9305090-153D-432C-984A-04613763307D/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/3D0F0D6A-5466-48BD-85DF-61CDCB337668/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/87DDA965-B3C1-4715-A911-5F84640EC9E2/loop-event-list.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/DB4A6439-125D-4EA6-B0A2-7A65D3D02E3A/.php",
+		"/Users/emiliorivera/Dropbox/Downloads/ccap/inc/activation.php",
+		"/Users/emiliorivera/Dropbox/Downloads/ccap/inc/custom.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/7564C83A-5FFB-41A2-A340-A5C5BCC8E8A1/sidebar-resources.php",
+		"/Users/emiliorivera/Dropbox/WPtouch/custom-posts.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/custom-landing-page-bauhaus/default/home.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/CD312C68-5FF0-4F00-BB44-688E86D9FD18/single-resource.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/plugins/wptouch-pro/admin/pages/wptouch-admin-general-settings.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/plugins/wptouch-pro/themes/foundation/root-functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/plugins/starfish-reviews/starfish-reviews.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/plugins/wptouch-pro/core/class-wptouch-pro.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/mu-plugins/active-plugins.php",
+		"/Users/emiliorivera/Dropbox/Downloads/active-plugins.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/extensions/multi-ads/multi-ads.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/prose/default/prose.js",
+		"/Users/emiliorivera/Documents/Repositories/wptouch-pro-extras/themes/open/default/functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open-child-theme/default/functions.php",
+		"/Users/emiliorivera/Sites/wptouchfree/wp-content/plugins/wptouch/themes/bauhaus/root-functions.php",
+		"/Users/emiliorivera/Sites/wptouchfree/wp-content/plugins/wptouch/themes/bauhaus/default/search.php",
+		"/Users/emiliorivera/Sites/wptouchfree/wp-content/plugins/wptouch/core/menu-walkers.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/summit/root-functions.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/header.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/location.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/hours.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/index.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/header-bottom.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/page.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/open/default/front-page.php",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/stylesheet-versioning/default/style.css",
+		"/Users/emiliorivera/Sites/example.com/wp-content/wptouch-data/themes/stylesheet-versioning/readme.txt",
+		"/Users/emiliorivera/Sites/example.com/wp-content/themes/twentynineteen/style.css",
+		"/Users/emiliorivera/Sites/example.net/wp-content/wptouch-data/themes/custom-menu-bauhaus/root-functions.php",
+		"/Users/emiliorivera/Sites/example/wp-config.php",
+		"/Users/emiliorivera/Sites/mobilestore/wp-content/wptouch-data/themes/anchor-link-bauhaus/default/single-product.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/44AA79FA-26C7-4F88-A0F2-A2142FA746A2/root-functions.php",
+		"/Users/emiliorivera/Sites/example/wp-content/plugins/untitled.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/classic-redux-child-theme/root-functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/8A9D7C1A-E4C6-4EAD-A0C0-966040AB0D64/root-functions.php",
+		"/Users/emiliorivera/Documents/Development/Repositories/ios-spotify-ui-clone/README.md",
+		"/Users/emiliorivera/Documents/Development/Repositories/ios-spotify-ui-clone/css/main.css",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/prose-custom-oembeds/default/functions.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/bauhaus-child-theme/root-functions.php",
+		"/Users/emiliorivera/Dropbox/WPtouch/page-136.php",
+		"/Users/emiliorivera/Sites/mobilestore/wp-content/wptouch-data/themes/mobilestore-child-storefront-powerpack/default/functions.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/classic-redux-child-theme/default/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/C9FAD51E-B1AE-4F21-A10D-01567D0BD481/wp-config.php",
+		"/Users/emiliorivera/Dropbox/WPtouch/page-104.php",
+		"/Users/emiliorivera/Sites/example/wp-content/plugins/wptouch-pro/core/class-wptouch-pro.php",
+		"/Users/emiliorivera/Sites/example/wp-includes/theme-compat/embed-content.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/75326153-2EA7-4193-8D05-BB17A5A8FED4/functions.php",
+		"/Users/emiliorivera/Library/Caches/Cleanup At Startup/Transmit/72181C7F-4279-43C7-9972-8BCEE1E987FC/style.css",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/prose/default/header-bottom.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/prose-spanish/default/header-bottom.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/prose-custom-oembeds/default/embed-content.php",
+		"/Users/emiliorivera/Dropbox/Downloads/page-events.php",
+		"/Users/emiliorivera/Dropbox/Downloads/elements-marquee.php",
+		"/Users/emiliorivera/Sites/example/wp-content/wptouch-data/themes/cms-child/default/header-bottom.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cont",
+			"[",
+			"assets",
+			"block_",
+			"block_mobile",
+			"$block_mobile",
+			"exclude",
+			"excluded",
+			"excluded-u",
+			"exclude",
+			"showcase",
+			"multi",
+			"muti",
+			"page",
+			"location",
+			"our",
+			"location",
+			"hours",
+			"ours",
+			"comments",
+			"collec",
+			"html",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "template-clone-chingu.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
